@@ -1,7 +1,5 @@
 # 🌟 Lucky Goyal — Personal Portfolio Website
 
-![Portfolio Banner](https://img.shields.io/badge/Portfolio-LuckyGoyal-blue?style=for-the-badge&logo=appveyor)
-
 Welcome to my personal portfolio!  
 This website is designed to showcase my **skills, projects, and experience** in AI/ML, Full-Stack Development, and Web Development.  
 
