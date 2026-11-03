@@ -1,0 +1,28 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="64" height="64" rx="10" fill="#F5F5F5"/>
+
+  <!-- Grid Boxes -->
+  <rect x="8" y="8" width="22" height="22" rx="4" fill="#A5D6A7"/>  <!-- MongoDB -->
+  <rect x="34" y="8" width="22" height="22" rx="4" fill="#B0BEC5"/>  <!-- Express -->
+  <rect x="8" y="34" width="22" height="22" rx="4" fill="#81D4FA"/>  <!-- React -->
+  <rect x="34" y="34" width="22" height="22" rx="4" fill="#AED581"/>  <!-- Node.js -->
+
+  <!-- MongoDB Leaf -->
+  <path d="M18 14C18 14 17 18 18 20C19 18 20 14 20 14C20 14 19 13 18 14Z" fill="#388E3C"/>
+  <path d="M18.5 19L18.5 21" stroke="#2E7D32" stroke-width="1.2"/>
+
+  <!-- Express (terminal symbol) -->
+  <path d="M43 14L46 17L43 20" stroke="#455A64" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="48" y1="17" x2="50" y2="17" stroke="#455A64" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- React Atom -->
+  <circle cx="19" cy="45" r="2.5" fill="#0288D1"/>
+  <ellipse cx="19" cy="45" rx="7" ry="2.5" stroke="#0288D1" stroke-width="1.5"/>
+  <ellipse cx="19" cy="45" rx="2.5" ry="7" stroke="#0288D1" stroke-width="1.5" transform="rotate(45 19 45)"/>
+  <ellipse cx="19" cy="45" rx="2.5" ry="7" stroke="#0288D1" stroke-width="1.5" transform="rotate(-45 19 45)"/>
+
+  <!-- Node.js Hexagon -->
+  <path d="M52 45L48 42L44 45V50L48 53L52 50V45Z" stroke="#558B2F" stroke-width="2" fill="none"/>
+  <text x="46" y="50" font-size="6" font-family="Arial" fill="#558B2F">n</text>
+</svg>
